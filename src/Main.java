@@ -30,10 +30,6 @@ public class Main {
         Cake payCake = new Cake();
         /*<----------------------------Pay Cake---------------------------->*/
 
-        /*<----------------------------building cakes--------------------------->*/
-        //Cake myOwnCake = new CakeBuilder("Strawberry", "Medium").withCream("Strawberry Cream").withFilling("Vanilla Filling").build();
-        /*<----------------------------building cakes--------------------------->*/
-
         /*<--------------------------------Menu--------------------------------->*/
         System.out.println("Добро пожаловать в наш кондитерский магазин!\n Что желаете?\n1 - Выбрать готовый торт.\n2 - Создать свой торт");
         Scanner sc = new Scanner(System.in);
