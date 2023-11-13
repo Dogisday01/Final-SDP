@@ -28,3 +28,6 @@ This repository encompasses the final project for the Software Design Patterns (
 
 7. **Strategy Pattern:**
     - Utilized for dynamically selecting a payment method during code execution.
+
+**Documentation:**
+[Final-SDP](https://astanait-my.sharepoint.com/:w:/g/personal/220212_astanait_edu_kz/EbR03_NDL0tGkY7T5Id78XYBaHZWxaftFCOQSoUtQuM43A?e=3EHKEz)
