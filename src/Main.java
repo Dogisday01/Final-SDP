@@ -158,7 +158,7 @@ public class Main {
         if(x == 1){
             paymentProcessor.processPayment(new CashPaymentStrategy());
         }
-        else{
+        if(x == 2){
             paymentProcessor.processPayment(new CardPaymentStrategy());
         }
 

@@ -40,10 +40,4 @@ public class Cake implements Cloneable{
     public Cake clone() throws CloneNotSupportedException{
         return (Cake) super.clone();
     }
-
-    public Cake cloneWithFilling(String newFilling) throws CloneNotSupportedException {
-        Cake clonedCake = clone();
-        clonedCake.setFilling(newFilling);
-        return clonedCake;
-    }
 }
